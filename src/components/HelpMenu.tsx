@@ -63,7 +63,9 @@ class HelpMenu extends React.Component<HelpMenuProps, HelpMenuState> {
               </ul>
             </div>
             <Typography id="modal-modal-title" variant="h6" component="h2">
-              Github
+              <a href="https://github.com/devjain32/maps-app" target="_blank">
+                Github
+              </a>
             </Typography>
           </Box>
         </Modal>
